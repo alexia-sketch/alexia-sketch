@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Math_Olympiad-Trainee-0284C7?style=flat-square" alt="UPC Trainee" />
   </p>
 </div>
----
+
 
 ### About Me
 
@@ -20,7 +20,7 @@ I'm a 10th-grade student in Barcelona with a background in traditional illustrat
 
 Coming from an art background changed how I approach engineering: I don't just look at whether code compiles—I care about latency, ergonomics, and how an interface actually feels to the person using it. Right now, I'm building accessible software and data tools while strengthening my foundations in C++, Calculus, and 3D CAD.
 
----
+
 
 ### Featured Projects
 
@@ -55,7 +55,7 @@ Coming from an art background changed how I approach engineering: I don't just l
   </tr>
 </table>
 
----
+
 
 ### Engineering & Academic Lab
 
@@ -63,7 +63,7 @@ Coming from an art background changed how I approach engineering: I don't just l
 * **Hardware & Parametric CAD:** Designing mechanical parts and ergonomic enclosures in **Autodesk Fusion 360** and programming microcontrollers (**ELEGOO Mega / Arduino**) to connect code with physical sensors.
 * **Mathematics & Physics:** Independently working through Algebra 2, Precalculus, and Calculus to build the mathematical intuition required for classical mechanics and machine learning.
 
----
+
 
 ### Toolkit
 
