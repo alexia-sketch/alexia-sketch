@@ -1,5 +1,4 @@
-<!-- BANNER: Sube una imagen diseñada por ti (1200x300px) como 'banner.png' y borra los símbolos <!-- y --> para activarla -->
-<!-- <img src="./banner.png" width="100%" alt="Header Banner" /> -->
+
 
 <div align="center">
   <h1>Hi, I'm Alexia</h1>
