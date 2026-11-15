@@ -7,13 +7,12 @@
   <p><em>Bridging human-centered design, algorithms, and physical hardware.</em></p>
   
   <p>
-    <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:alexiaps.tech@gmail.com"><img src="https://img.shields.io/badge/Email-alexiaps.tech%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Based_in-Barcelona-27272A?style=flat-square" alt="Location" />
     <img src="https://img.shields.io/badge/Girls_Who_Code-Member-0D9488?style=flat-square" alt="Girls Who Code" />
     <img src="https://img.shields.io/badge/UPC_Olympiad-Trainee-0284C7?style=flat-square" alt="UPC Trainee" />
   </p>
 </div>
-
 ---
 
 ### About Me
